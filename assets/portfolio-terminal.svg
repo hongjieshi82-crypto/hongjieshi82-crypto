@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="500" viewBox="0 0 1000 500" role="img" aria-labelledby="title desc">
-  <title id="title">Hongjie AI Workbench</title>
-  <desc id="desc">Animated terminal-style introduction to Hongjie's AI product portfolio</desc>
+  <title id="title">Shi Hongjie AI Product Portfolio</title>
+  <desc id="desc">Animated terminal introduction for AI Product Manager Shi Hongjie</desc>
   <style>
     :root { color-scheme: dark; }
     .bg { fill: #0b1220; }
@@ -21,20 +21,10 @@
     .l7 { animation-delay: 2.3s; } .l8 { animation-delay: 2.65s; }
     .pulse { opacity: 0; animation: pulse 9s ease-in-out infinite; animation-delay: 3s; }
     .cursor { fill: #62a8ff; animation: blink .8s steps(1) infinite; }
-    @keyframes reveal {
-      0%, 5% { opacity: 0; transform: translateY(6px); }
-      11%, 78% { opacity: 1; transform: translateY(0); }
-      90%, 100% { opacity: 0; }
-    }
-    @keyframes pulse {
-      0%, 37% { opacity: 0; }
-      46%, 82% { opacity: 1; }
-      92%, 100% { opacity: 0; }
-    }
-    @keyframes blink { 0%, 48% { opacity: 1; } 49%, 100% { opacity: 0; } }
-    @media (prefers-reduced-motion: reduce) {
-      .line, .pulse, .cursor { animation: none; opacity: 1; }
-    }
+    @keyframes reveal { 0%,5%{opacity:0;transform:translateY(6px)} 11%,78%{opacity:1;transform:translateY(0)} 90%,100%{opacity:0} }
+    @keyframes pulse { 0%,37%{opacity:0} 46%,82%{opacity:1} 92%,100%{opacity:0} }
+    @keyframes blink { 0%,48%{opacity:1} 49%,100%{opacity:0} }
+    @media (prefers-reduced-motion: reduce) { .line,.pulse,.cursor{animation:none;opacity:1} }
   </style>
   <rect class="bg" width="1000" height="500" rx="20"/>
   <rect class="panel" x="12" y="12" width="976" height="476" rx="16"/>
@@ -42,15 +32,15 @@
   <circle cx="39" cy="40" r="7" fill="#ff6b6b"/>
   <circle cx="64" cy="40" r="7" fill="#ffd166"/>
   <circle cx="89" cy="40" r="7" fill="#5ee6a8"/>
-  <text class="mono meta" x="500" y="45" text-anchor="middle">hongjie@ai-workbench — portfolio</text>
-  <text class="mono title line l1" x="58" y="108">HONGJIE AI WORKBENCH</text>
-  <text class="mono body line l2" x="58" y="148">[ <tspan class="ok">OK</tspan> ] Loading product thinking</text>
-  <text class="mono body line l3" x="58" y="181">[ <tspan class="ok">OK</tspan> ] Connecting agent workflows</text>
-  <text class="mono body line l4" x="58" y="214">[ <tspan class="ok">OK</tspan> ] Mapping cross-border credit risk</text>
-  <text class="mono body line l5" x="58" y="247">[ <tspan class="ok">OK</tspan> ] Shipping practical AI products</text>
-  <text class="mono prompt line l6" x="58" y="302">hongjie@ai-workbench ~ % <tspan class="body">whoami</tspan></text>
-  <text class="mono body line l7" x="58" y="337">AI Product Builder · Agent Systems · Risk Intelligence</text>
-  <text class="mono prompt line l8" x="58" y="385">hongjie@ai-workbench ~ % <tspan class="body">open featured-work</tspan><rect class="cursor" x="690" y="366" width="10" height="23"/></text>
+  <text class="mono meta" x="500" y="45" text-anchor="middle">shihongjie@ai-product — portfolio</text>
+  <text class="mono title line l1" x="58" y="108">SHI HONGJIE · AI PRODUCT MANAGER</text>
+  <text class="mono body line l2" x="58" y="148">[ <tspan class="ok">OK</tspan> ] Starting from real user problems</text>
+  <text class="mono body line l3" x="58" y="181">[ <tspan class="ok">OK</tspan> ] Orchestrating agent workflows</text>
+  <text class="mono body line l4" x="58" y="214">[ <tspan class="ok">OK</tspan> ] Grounding answers with RAG evidence</text>
+  <text class="mono body line l5" x="58" y="247">[ <tspan class="ok">OK</tspan> ] Validating AI with evals and guardrails</text>
+  <text class="mono prompt line l6" x="58" y="302">shihongjie@ai-product ~ % <tspan class="body">whoami</tspan></text>
+  <text class="mono body line l7" x="58" y="337">5 years in product · 2 years focused on AI · Beijing</text>
+  <text class="mono prompt line l8" x="58" y="385">shihongjie@ai-product ~ % <tspan class="body">open selected-work</tspan><rect class="cursor" x="718" y="366" width="10" height="23"/></text>
   <text class="mono ready pulse" x="58" y="429">SYSTEM READY</text>
   <text class="mono cta pulse" x="500" y="463" text-anchor="middle">EXPLORE THE PROJECTS BELOW ↓</text>
 </svg>
