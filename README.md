@@ -37,6 +37,19 @@ I turn complex AI capabilities into practical products with evidence, guardrails
 
 ---
 
+## 🎮 Vibe Coding Lab · 有意思的小玩意
+
+▶️ [**YouTube Learn English**](https://github.com/hongjieshi82-crypto/youtube-learn-english)  
+把喜欢的 YouTube 视频变成英语学习素材，在真实语境里看视频、理解和练习。
+
+🌈 [**Nyan Cat Progress Bar**](https://github.com/hongjieshi82-crypto/nyan-cat-progress-bar)  
+一只沿着 Mac 屏幕底部跑完一天的像素彩虹猫，用位置显示当天时间进度，还带彩虹拖尾和动画。
+
+🧪 [**AI Agent 质量评测 Harness**](https://github.com/hongjieshi82-crypto/my-agent-harness)  
+零依赖的本地评测控制台，支持规则裁判、LLM 裁判、冒烟测试与 CI 上线门禁。
+
+---
+
 ## 📈 Impact · 已验证成果
 
 | 场景 | 结果 |
