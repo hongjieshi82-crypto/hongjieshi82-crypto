@@ -37,13 +37,6 @@ I turn complex AI capabilities into practical products with evidence, guardrails
 
 ---
 
-## 🧰 Open-source Skill · 开源工具
-
-📝 [**WeChat Publisher · 公众号文章一键排版发布**](https://github.com/sakuraoxo-clio/wechat-publisher)  
-面向 Claude 与 Codex 的公众号发布 Skill：把文章精排成微信合规 HTML，自动处理正文图片与封面，并通过官方 API 一键写入公众号草稿箱。
-
----
-
 ## 🎮 Vibe Coding Lab · 有意思的小玩意
 
 ▶️ [**YouTube Learn English**](https://github.com/hongjieshi82-crypto/youtube-learn-english)  
