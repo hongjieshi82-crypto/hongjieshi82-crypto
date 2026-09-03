@@ -39,7 +39,7 @@ I turn complex AI capabilities into practical products with evidence, guardrails
 
 ## 🎨 Original Skill · 原创技能
 
-📰 **WeChat Editorial Director**  
+📰 [**WeChat Editorial Director**](https://github.com/hongjieshi82-crypto/wechat-editorial-director)  
 为微信公众号文章设计的内容与视觉导演 Skill：先诊断文章类型、作者声音与情绪曲线，再提供三套真正不同的编辑设计方向，完成配图规划、微信安全 HTML 排版与移动端质检。目标不是重复套模板，而是让同一个公众号保持识别度，同时让每篇文章拥有适合自己的视觉表达。
 
 ---
