@@ -52,6 +52,9 @@ I turn complex AI capabilities into practical products with evidence, guardrails
 🌈 [**Nyan Cat Progress Bar**](https://github.com/hongjieshi82-crypto/nyan-cat-progress-bar)  
 一只沿着 Mac 屏幕底部跑完一天的像素彩虹猫，用位置显示当天时间进度，还带彩虹拖尾和动画。
 
+🎛️ [**Notch Controls**](https://github.com/hongjieshi82-crypto/notch-controls)  
+不依赖实体 Touch Bar 的 macOS 悬浮控制条，为 Touch Bar 损坏或需要屏幕控制条的 Mac 提供亮度、音量、媒体播放与 F1–F12 功能键控制。
+
 🧪 [**AI Agent 质量评测 Harness**](https://github.com/hongjieshi82-crypto/my-agent-harness)  
 零依赖的本地评测控制台，支持规则裁判、LLM 裁判、冒烟测试与 CI 上线门禁。
 
