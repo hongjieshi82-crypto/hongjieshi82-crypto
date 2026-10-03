@@ -42,6 +42,9 @@ I turn complex AI capabilities into practical products with evidence, guardrails
 🧰 [**公众号工作台 · WeChat Workbench**](https://github.com/hongjieshi82-crypto/gongzhonghao-workbench)  
 写或粘贴文章，选一种配图风格，正文配图、横幅封面、公众号排版和一键复制到公众号全部生成；本地运行，配合 Codex Skill 完成写作与原生生图。
 
+✍️ [**公众号发布 Skill · WeChat Publisher Skill**](https://github.com/hongjieshi82-crypto/gongzhonghao-publisher-skill)  
+给 Codex / Claude Code / Cursor 等 AI 用：文章写完后选一种风格，自动配图、生成横幅封面、排版并输出带「复制到公众号」按钮的 HTML。
+
 ---
 
 ## 🎮 Vibe Coding Lab · 有意思的小玩意
