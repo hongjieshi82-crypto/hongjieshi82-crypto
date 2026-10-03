@@ -42,6 +42,9 @@ I turn complex AI capabilities into practical products with evidence, guardrails
 📰 [**WeChat Editorial Director**](https://github.com/hongjieshi82-crypto/wechat-editorial-director)  
 为微信公众号文章设计的内容与视觉导演 Skill：先诊断文章类型、作者声音与情绪曲线，再提供三套真正不同的编辑设计方向，完成配图规划、微信安全 HTML 排版与移动端质检。目标不是重复套模板，而是让同一个公众号保持识别度，同时让每篇文章拥有适合自己的视觉表达。
 
+🧰 [**公众号工作台 · WeChat Workbench**](https://github.com/hongjieshi82-crypto/gongzhonghao-workbench)  
+写或粘贴文章，选一种配图风格，正文配图、横幅封面、公众号排版和一键复制到公众号全部生成；本地运行，配合 Codex Skill 完成写作与原生生图。
+
 ---
 
 ## 🎮 Vibe Coding Lab · 有意思的小玩意
